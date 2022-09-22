@@ -17,6 +17,8 @@ http://localhost:8080/suporte_balanceado/verificar_sequencia
 
 ```sh
 json
+
+RequestBody
 {
   [{()}](){}
 }
