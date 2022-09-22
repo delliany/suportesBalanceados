@@ -8,6 +8,8 @@ Projeto em Spring Boot e Java 8
 
 Executa pelo Spring Boot e testa a requisição no PostMan ou semelhante
 
+Spring application - Run As - Java Application
+
 ### Teste no PostMan
 
 #### GET verificar_sequencia
